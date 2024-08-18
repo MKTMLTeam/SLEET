@@ -1,0 +1,25 @@
+name: SLEET
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+  - pip
+dependencies:
+  - ase=3.22.1
+  - pandas
+  - pytorch=2.0.0
+  - pip
+  - python=3.9
+  - einops
+  - pip:
+      - fasteners
+      - hydra-colorlog
+      - pytorch-lightning==2.0.2
+      - rdkit==2023.9.1
+      - rich
+      - omegaconf
+      - numpy<1.25.0
+      - hydra-core
+      - torchmetrics
+      - tqdm
