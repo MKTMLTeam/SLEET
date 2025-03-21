@@ -122,6 +122,7 @@ model:
     same_embed: true
     n_lembed: 14
     temperature: 1.0
+    aggregation_mode: sum
   _target_: src.model.NeuralNetworkPotential
   output_modules:
   - _target_: ${str2class:src.atomistic.Atomwise}
