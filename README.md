@@ -2,7 +2,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 [![](https://shields.io/badge/-Lightning--Hydra--Template-017F2F?style=flat&logo=github&labelColor=303030)](https://github.com/hobogalaxy/lightning-hydra-template)
 
-Source paper: 
+Source paper: [Feature-Driven Prediction of HOMO–LUMO Gaps in Transition-Metal Complexes Using the SLEET Model: A SMILES-Based Transformer Framework](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00085)
 
 
 ##### Requirements:：
